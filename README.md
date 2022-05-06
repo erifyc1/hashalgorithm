@@ -2,6 +2,6 @@
 ## From CS128 Final Project
 ### Jacob Stolker
 
-- HashV1 (based on SHA-256/Keccak-256)
+- HashV1 (based on SHA256/Keccak-256)
 - HashV2 (variant of HashV1 with increased calculation rounds)
 - HashV3 (variant of HashV1 with shuffling partial calculation rounds)
